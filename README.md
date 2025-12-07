@@ -1,3 +1,1 @@
-# Tipixly
-
-Schéma --> Latex
+#Typixly
