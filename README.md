@@ -1,6 +1,6 @@
 # Typixly
 
-**Typixly** is a tool that allows you to convert **mathematical**, **physical**, or **computer science** diagrams into clean and functional *LaTeX* code.
+**Typixly** is a tool that allows you to convert **mathematical**, **physical**, or **computer science** diagrams into clean and functional *LaTeX* code using TikZ.
 
 ⚠️ *The project is under development; nothing is functional yet.*
 
